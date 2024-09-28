@@ -1,0 +1,7 @@
+C:\Users\ИванВСтойков\source\repos\IvanStoikov\ToDoList\bin\Debug\ToDoList.exe.config
+C:\Users\ИванВСтойков\source\repos\IvanStoikov\ToDoList\bin\Debug\ToDoList.exe
+C:\Users\ИванВСтойков\source\repos\IvanStoikov\ToDoList\bin\Debug\ToDoList.pdb
+C:\Users\ИванВСтойков\source\repos\IvanStoikov\ToDoList\obj\Debug\ToDoList.csproj.AssemblyReference.cache
+C:\Users\ИванВСтойков\source\repos\IvanStoikov\ToDoList\obj\Debug\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\ИванВСтойков\source\repos\IvanStoikov\ToDoList\obj\Debug\ToDoList.exe
+C:\Users\ИванВСтойков\source\repos\IvanStoikov\ToDoList\obj\Debug\ToDoList.pdb
